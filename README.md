@@ -1,2 +1,2 @@
 # api_filmes
-Uma api de filmes para, cadastro e consulta de filmes.
+Uma API de filmes para, cadastro e consulta de filmes.
